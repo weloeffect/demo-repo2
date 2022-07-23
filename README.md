@@ -1,3 +1,4 @@
+
 # Demo 2
 git part 2
 
@@ -6,3 +7,7 @@ git part 2
 
 ## new style
 1. open index.html file in browser
+
+## development
+just something concerning development
+
